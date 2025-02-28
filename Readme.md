@@ -22,7 +22,7 @@ A Node.js Express API that provides a chatbot interface for querying documentati
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/cdp-documentation-chatbot.git
+   git clone [https://github.com/Anubhavbaranwal/Assignment-2-Zeot-p.git](https://github.com/Anubhavbaranwal/Assignment-2-Zeot-p)
    cd cdp-documentation-chatbot
    ```
 
